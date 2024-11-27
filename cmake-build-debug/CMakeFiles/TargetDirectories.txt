@@ -1,0 +1,3 @@
+/home/erick/uni/sistemasOperativosII/practica4/cmake-build-debug/CMakeFiles/practica4.dir
+/home/erick/uni/sistemasOperativosII/practica4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/erick/uni/sistemasOperativosII/practica4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
